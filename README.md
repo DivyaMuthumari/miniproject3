@@ -69,9 +69,9 @@ Update the `src/main/resources/application.properties` file with your database c
 
 ```properties
 spring.application.name=BusBookingSystem
-spring.datasource.url=jdbc:mysql://localhost:3306/bookingmanagement_db
+spring.datasource.url=jdbc:mysql://localhost:3306/busbooking
 spring.datasource.username=root
-spring.datasource.password=Msdhoni1997*
+spring.datasource.password=guvi
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
